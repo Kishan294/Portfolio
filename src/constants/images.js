@@ -29,11 +29,12 @@ import logo from "../assets/logo.png";
 
 import adidas from "../assets/adidas.png";
 import amazon from "../assets/amazon.png";
-import asus from "../assets/asus.png";
+// import asus from "../assets/asus.png";
 import bolt from "../assets/bolt.png";
 import nb from "../assets/nb.png";
 import skype from "../assets/skype.png";
 import spotify from "../assets/spotify.png";
+import personal_logo from "../assets/personal_logo.svg";
 
 export default {
   email,
@@ -64,9 +65,10 @@ export default {
   logo,
   adidas,
   amazon,
-  asus,
+  // asus,
   bolt,
   nb,
   skype,
   spotify,
+  personal_logo,
 };
